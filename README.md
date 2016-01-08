@@ -19,6 +19,7 @@ DCGAN.torch: Train your own image generator
 # Installing dependencies
 ## For MacOSX
 - Install `gfind`, `gcut` and `gwc`: `brew install coreutils findutils`
+
 ## Without GPU
 - Install Torch:  http://torch.ch/docs/getting-started.html#_
 
